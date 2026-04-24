@@ -1,6 +1,6 @@
 # Andre A. Marin
 
-**Software Engineer • Systems & Cloud Specialist • Austin, TX**
+**Firmware Engineer • Full Stack Developer • Austin, TX**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/andremarin88/)
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/aamarin)
@@ -9,25 +9,30 @@
 
 ## What I Do
 
-Software engineer with a background spanning low-level systems programming, cloud-native development, and enterprise IT infrastructure. I build reliable, high-performance software — from firmware-level C/C++ to cloud-deployed TypeScript services.
+Firmware and scripting/lab-tools engineering leader with 10+ years driving code quality, testability, automation, and education for hardware development teams. I build reliable, high-performance software — from DDR4 memory initialization firmware and DFT tooling for IBM custom microprocessors to cloud-deployed applications and bootstrapped small-to-medium (SMB) ERP solutions.
 
-- 🔭 Currently building software infrastructure and cloud-native solutions in **Austin, TX**
-- ☁️ Experienced with **Red Hat OpenShift**, **Kubernetes**, and container-based deployments
-- 🖥️ Background in **systems programming** — low-level C/C++, firmware debugging, and hardware interfaces
-- 📚 Lifelong learner — continuously developing skills through programs at **UIUC**, **UC San Diego**, **CMU**, and **Udacity**
-- 💡 Passionate about clean code, rigorous problem-solving, and building tools that scale
+- 🔧 Currently working on **Hostboot Firmware Development** at IBM, Austin, TX
+- 🧠 Deep background in **firmware & hardware interfaces** — DDR4, PowerPC PLDM, memory initialization, cache/core exercisers
+- ☁️ Experienced with **Red Hat OpenShift**, **Kubernetes**, and cloud-native application development
+- 💼 Founder of **Marin Ventures LLC** and consultant at **Supe Development LLC** — bootstrapped an SMB ERP generating ~$150K net cash flow in the first year
+- 📚 BS Electrical Engineering, MBA in Business Analytics from **UIUC**;
+- 🎖️ HSF Scholar (2014, 2022), PES Scholar, and McNair Scholar
+- 💡 Bilingual (English / Spanish)
 
 ---
 
 ## Tech Stack
 
 ```
-Languages:   C, C++, TypeScript, JavaScript, SQL
-Cloud:       Red Hat OpenShift, Kubernetes, Docker, AWS (Cloud Developer Nanodegree)
-Backend:     Node.js, RESTful APIs, Microservices
-Infra:       GitHub Actions, CI/CD, Linux, Shell scripting
-CS:          Data Structures & Algorithms, Systems Programming, Computer Architecture
-Build:       CMake, Ceedling, npm
+Languages:   C, C++, TypeScript, Shell/Bash
+Frontend:    Vue3.js
+Backend:     Node.js, RESTful APIs
+Firmware:    DDR4 Memory Init, Hostboot, DFT, PowerPC FSI, Cache/Core Exercisers
+Cloud:       Red Hat OpenShift, Kubernetes, Docker, AWS
+Infra:       GitHub Actions, CI/CD, Linux
+Systems:     Embedded Systems, Firmware, Systems Programming, Computer Architecture
+Analytics:   Business Analytics
+Build:       Make, npm
 ```
 
 ---
@@ -36,33 +41,23 @@ Build:       CMake, Ceedling, npm
 
 **Systems & Infrastructure**
 - Low-level C/C++ systems development
-- Firmware debugging and hardware interface programming (PowerPC FSI)
+- Firmware debugging and hardware interface programming
 - Container orchestration with OpenShift & Kubernetes (Red Hat DO180 certified)
 
 **Cloud & Backend**
-- Cloud-native application development (Udacity Cloud Developer Nanodegree)
 - TypeScript/JavaScript backend services
 - CI/CD pipelines and DevOps practices
 
 **Software Engineering**
-- Object-oriented design, templates, and STL (C++ Yellow & White Belt)
-- Ordered & unordered data structures (UIUC Coursera)
-- Hash tables, trees, graphs, and advanced algorithms (UCSD Coursera)
-- Computer systems fundamentals: memory, caching, linking, and concurrency (CS:APP — CMU)
+- C++ Object-oriented design, templates, and STL
+- Ordered & unordered data structures
+- Computer systems: memory management
 
 ---
 
 ## Featured Projects
 
-🔧 **[Computer Systems](https://github.com/aamarin/computer_systems)** — Problem sets from *Computer Systems: A Programmer's Perspective* (CS:APP, CMU)
-
-🧩 **[Computer Systems Lab](https://github.com/aamarin/computer_systems_lab)** — Lab assignments from csapp.cs.cmu.edu covering data representation, assembly, and memory
-
-🗂️ **[Ordered Data Structures](https://github.com/aamarin/coursera_linked_lists_project)** — Project work for the Ordered Data Structures course — University of Illinois via Coursera
-
-🌳 **[UCSD Data Structures](https://github.com/aamarin/ucsd_coursera_basic_data_structures_project)** — Arrays, linked lists, stacks, queues, and trees — UC San Diego via Coursera
-
-💡 **[Unordered Map Project](https://github.com/aamarin/coursera_unordered_map_project)** — Practical usage of hash tables with `std::unordered_map` in C++
+🔧 **[PFMS](https://github.com/MarinVentures/pfms)** —  Sophisticated accounting-grade financial management for individuals and households
 
 ---
 
